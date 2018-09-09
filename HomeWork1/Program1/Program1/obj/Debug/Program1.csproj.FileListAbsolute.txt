@@ -1,0 +1,7 @@
+F:\学习\c#\C#Work\Program1\Program1\bin\Debug\Program1.exe.config
+F:\学习\c#\C#Work\Program1\Program1\bin\Debug\Program1.exe
+F:\学习\c#\C#Work\Program1\Program1\bin\Debug\Program1.pdb
+F:\学习\c#\C#Work\Program1\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+F:\学习\c#\C#Work\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+F:\学习\c#\C#Work\Program1\Program1\obj\Debug\Program1.exe
+F:\学习\c#\C#Work\Program1\Program1\obj\Debug\Program1.pdb

@@ -1,0 +1,10 @@
+F:\学习\c#\C#Work\Program2\Program2\bin\Debug\Program2.exe.config
+F:\学习\c#\C#Work\Program2\Program2\bin\Debug\Program2.exe
+F:\学习\c#\C#Work\Program2\Program2\bin\Debug\Program2.pdb
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.csprojAssemblyReference.cache
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.Form1.resources
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.cache
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.exe
+F:\学习\c#\C#Work\Program2\Program2\obj\Debug\Program2.pdb
