@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progrom1", "progrom1\progro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progrom2", "progrom2\progrom2.csproj", "{4E311506-592C-486B-8845-D8328FBFDA72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordertest", "ordertest\ordertest.csproj", "{ACDF6988-894E-46B2-AD83-2028D84ABF9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4E311506-592C-486B-8845-D8328FBFDA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E311506-592C-486B-8845-D8328FBFDA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E311506-592C-486B-8845-D8328FBFDA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDF6988-894E-46B2-AD83-2028D84ABF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDF6988-894E-46B2-AD83-2028D84ABF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDF6988-894E-46B2-AD83-2028D84ABF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDF6988-894E-46B2-AD83-2028D84ABF9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
