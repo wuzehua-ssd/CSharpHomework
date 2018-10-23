@@ -26,5 +26,10 @@ namespace Program2
             string str1 = Convert.ToString(num);
             textBox3.Text = str1;
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
